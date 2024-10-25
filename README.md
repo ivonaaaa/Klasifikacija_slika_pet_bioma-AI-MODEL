@@ -6,4 +6,3 @@ Napravljen je jednostavan model koji razvrstava slike zavičaja u jednu od pet k
 Okruženje je softver Orange.
 
 Na master branch-u nalaze se mape s podacima (slikama), dokumentacija u obliku izvješća, prezentacija navedenog izvješća, te sam projekt. Model je u obliku .ows datoteke za koju je potrebno imati instaliran Orange program.
->>>>>>> 2656ca6 (Create README.md)
