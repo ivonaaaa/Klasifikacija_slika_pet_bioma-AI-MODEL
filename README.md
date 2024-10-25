@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KLASIFIKACIJA SLIKA PET BIOMA
 ## Model zasnovan na strojnom učenju s ulogom razvrstavanja podataka u pripadajuće klase
 
